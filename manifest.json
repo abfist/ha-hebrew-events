@@ -1,0 +1,8 @@
+{
+  "domain": "hebrew_events",
+  "name": "Hebrew Events",
+  "version": "1.0.0",
+  "config_flow": true,
+  "requirements": ["pyluach==2.2.0"],
+  "codeowners": []
+}

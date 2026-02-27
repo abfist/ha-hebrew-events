@@ -1,0 +1,11 @@
+add_event:
+  name: Add Hebrew Event
+  fields:
+    name:
+      required: true
+    day:
+      required: true
+    month:
+      required: true
+    reminders:
+      required: false
