@@ -1,0 +1,7 @@
+{
+  "name": "Hebrew Events",
+  "content_in_root": false,
+  "render_readme": true,
+  "domain": "hebrew_events",
+  "homeassistant": "2024.1.0"
+}
